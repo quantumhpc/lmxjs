@@ -1,0 +1,5 @@
+{
+        "binary"        :  "/opt/lmx/lmxendutil",
+        "cmd"           :  "-licstat",
+        "serverURL"     :  "27000@localhost"
+}
